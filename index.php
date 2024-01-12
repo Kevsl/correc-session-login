@@ -1,5 +1,5 @@
 <?php 
-include("registerFunction.php")
+include("registerFunction.php");
 ?>
 
 <!DOCTYPE html>
